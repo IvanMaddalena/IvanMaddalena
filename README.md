@@ -45,7 +45,7 @@ A Flask-based biometric authentication system with fingerprint hashing and key g
 
 ## 📫 How to Reach Me
 
-- 💼 [LinkedIn](www.linkedin.com/in/ivan-maddalena)
+- 💼 LinkedIn: www.linkedin.com/in/ivan-maddalena
 - ✉️ Email: ivan.maddalena00@gmail.com
 - 🌍 Based in Italy, open to working worldwide
 
