@@ -25,7 +25,7 @@ A compiler written in C that converts C code into Python, featuring parsing, AST
 🔗 [View project](https://github.com/domenicodegioia/transpiler_C2Python)
 
 ### 🌱 Hyperspectral Image Classification  
-A MATLAB project using SVMs for classifying hyperspectral olive images.  
+A MATLAB project using SVMs and SAMs for classifying hyperspectral olive images.  
 🔗 [View project](https://github.com/IvanMaddalena/hyperspectral-olive-classification)
 
 ### 🧬 Fingerprint Auth & KeyGen  
